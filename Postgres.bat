@@ -1,0 +1,1 @@
+"C:/Program Files/PostgreSQL/9.4/bin/pg_ctl.exe" start -N "postgresql-x64-9.4" -D "C:\Users\claube\Google Drive\PostresSQL" -w

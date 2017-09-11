@@ -1,0 +1,1 @@
+"C:/Program Files/PostgreSQL/9.3/bin/pgAdmin3.exe"

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>postgres</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+	</buildSpec>
+	<natures>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>pgAdmin3.exe</name>
+			<type>1</type>
+			<locationURI>PARENT-1-ECLIPSE_HOME/PostgreSQL/9.3/bin/pgAdmin3.exe</locationURI>
+		</link>
+	</linkedResources>
+</projectDescription>
